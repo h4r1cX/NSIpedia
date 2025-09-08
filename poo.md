@@ -7,7 +7,7 @@
 * 1990 : Java
 
 ## Petit dico de la POO
-Attribut (dans self.nom, nom est l'attibut)
-Méthode (pass)
-Instance (pass)
-Instancier (créer un objet) (ex d'instance: a = chat('felix', 'miaou')
+* Attribut (dans self.nom, nom est l'attibut)
+* Méthode (pass)
+* Instance (pass)
+* Instancier (créer un objet) (ex d'instance: a = chat('felix', 'miaou')
