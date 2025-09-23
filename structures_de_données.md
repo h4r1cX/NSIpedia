@@ -10,5 +10,3 @@
 * écrire :
   ```python
   li[3] = 12
-  
-   
