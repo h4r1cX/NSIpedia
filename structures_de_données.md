@@ -6,9 +6,9 @@
 * lire :
   ```python
   >>> li[2]
-   9```
+   9
 * écrire :
   ```python
   li[3] = 12
-  ```
+  
    
