@@ -28,3 +28,22 @@
   [7, 1]
   >>> print(a)
   9
+
+## Dictionaire :
+`dico = {"a" : 1, "b" : 2, "c" : 14}`
+* lire : 
+  ```python
+  >>>dico["a"]
+  1
+
+* écrire :
+  ```python
+  >>>dico["a"] = 2025
+  >>>print(dico)
+  {"a" : 2025, "b" : 2, "c" : 14}
+
+* ajout d'un élément à la fin du dictionaire. :
+  ```python
+  >>> dico["d"] = 0
+  >>> print(dico)
+  {"a" : 2025, "b" : 2, "c" : 14, "d" : 0}
