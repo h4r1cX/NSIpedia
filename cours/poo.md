@@ -1,5 +1,5 @@
 # Programmation Orientée Objet (POO)
-li [retour à l'accueil](https://github.com/h4r1cX/NSIpedia/blob/main/accueil.md)
+[retour à l'accueil](https://github.com/h4r1cX/NSIpedia/blob/main/accueil.md)
 
 ## Historique des languages de programmatioon:
 * 1950: Un language par ordi
