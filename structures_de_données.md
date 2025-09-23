@@ -2,7 +2,7 @@
 ---
 
 ## Liste python :
-`>>> li = [7,1,9,"a"]`
+`li = [7,1,9,"a"]`
 * lire :
   ```python
   >>> li[2]
