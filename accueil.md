@@ -2,10 +2,10 @@
 ## Topics
 
 ### 📁 Cours POO :
-➡️ [Programmation Orientée Objet](https://github.com/h4r1cX/NSIpedia/blob/main/poo.md)
+➡️ [Programmation Orientée Objet](https://github.com/h4r1cX/NSIpedia/blob/main/cours/poo.md)
 
 ### 📁 Cours Structures de donnés :
-➡️ [Redirection](https://github.com/h4r1cX/NSIpedia/blob/main/structures_de_donn%C3%A9es.md)
+➡️ [Redirection](https://github.com/h4r1cX/NSIpedia/blob/main/cours/structures_de_donn%C3%A9es.md)
 
 ## Aide
 
