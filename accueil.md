@@ -9,4 +9,4 @@
 
 ## Aide
 
-➡️ [Redirection](https://github.com/h4r1cX/NSIpedia/blob/main/tuto_github.md)
+➡️ [Tuto GitHub](https://github.com/h4r1cX/NSIpedia/blob/main/tuto_github.md)
