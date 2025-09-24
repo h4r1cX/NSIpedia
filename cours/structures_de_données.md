@@ -67,7 +67,7 @@
   typeError : 'tuple' object does not support item assignment
 
 * contenir des objets de types différents : <br>
-  `t = ("pierre", 22)`
+  `g = ("pierre", 22)`
   ```python
-  >>> print(t)
+  >>> print(g)
   ("pierre", 22)
