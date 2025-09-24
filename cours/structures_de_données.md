@@ -48,3 +48,15 @@
   >>> dico["d"] = 0
   >>> print(dico)
   {"a" : 2025, "b" : 2, "c" : 14, "d" : 0}
+
+## Tuple :
+`t = (7, 1, 9, "a")`
+
+* lire :  
+  ```python
+  >>> t[2]
+  9
+  
+* ⚠️ écrire :
+  Les tuples sont immutables, c’est-à-dire qu’on ne peut pas modifier leurs éléments après création.
+Exemple :
