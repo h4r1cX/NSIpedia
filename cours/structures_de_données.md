@@ -67,7 +67,7 @@ Exemple :
   typeError : 'tuple' object does not support item assignment
 
 * contenir des objets de types différents :
+  `t = ("pierre", 22)`
   ```python
-  >>> t = ("pierre", 22)
   >>> print(t)
   ("pierre", 22)
