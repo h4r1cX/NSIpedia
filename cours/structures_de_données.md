@@ -58,15 +58,15 @@
   9
   
 * ⚠️ écrire :
-  Les tuples sont immutables, c’est-à-dire qu’on ne peut pas modifier leurs éléments après création. 
-Exemple :
+  Les tuples sont immutables, c’est-à-dire qu’on ne peut pas modifier leurs éléments après création. <br>
+  Exemple :
   ```python
   >>> t[1] = 42
   traceback (most recent call last):
     ...
   typeError : 'tuple' object does not support item assignment
 
-* contenir des objets de types différents :
+* contenir des objets de types différents : <br>
   `t = ("pierre", 22)`
   ```python
   >>> print(t)
