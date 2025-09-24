@@ -57,7 +57,7 @@
   >>> t[2]
   9
   
-* ⚠️ écrire :
+* ⚠️ écrire :<br>
   Les tuples sont immutables, c’est-à-dire qu’on ne peut pas modifier leurs éléments après création. <br>
   Exemple :
   ```python
