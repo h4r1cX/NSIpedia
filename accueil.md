@@ -10,6 +10,9 @@
 ### 📁 Cours Flask :
 ➡️ [Cours Flask](https://github.com/h4r1cX/NSIpedia/blob/main/cours/flask.md)
 
+### 📁 Cours Piles :
+➡️ [Cours Piles](https://github.com/h4r1cX/NSIpedia/blob/main/cours/piles.md)
+
 ## Aide
 
 ➡️ [Tuto GitHub](https://github.com/h4r1cX/NSIpedia/blob/main/tuto_github.md)
