@@ -7,6 +7,9 @@
 ### 📁 Cours Structures de donnés :
 ➡️ [Cours structures de données](https://github.com/h4r1cX/NSIpedia/blob/main/cours/structures_de_donn%C3%A9es.md)
 
+### 📁 Cours Flask :
+➡️ [Cours Flask](https://github.com/h4r1cX/NSIpedia/blob/main/cours/flask.md)
+
 ## Aide
 
 ➡️ [Tuto GitHub](https://github.com/h4r1cX/NSIpedia/blob/main/tuto_github.md)
