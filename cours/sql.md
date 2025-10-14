@@ -7,6 +7,8 @@
 
 - Clé étrangère : Champ qui fait référence à une clé primaire d'une autre table
 
+- Cohérance : Impossible INSERT lignes dans table fille avec une valeur de clé étrangère n'existant pas dans la table mère.
+
 ## Forme normales :
 
 * Formes que nous utilisons en cours :
