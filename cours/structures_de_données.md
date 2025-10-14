@@ -71,3 +71,6 @@
   ```python
   >>> print(g)
   ("pierre", 22)
+
+## SQL :
+➡️ [Cours SQL](https://github.com/h4r1cX/NSIpedia/blob/main/cours/sql.md)
