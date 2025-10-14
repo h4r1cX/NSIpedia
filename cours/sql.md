@@ -3,7 +3,9 @@
 ---
 
 ## Vocabulaire :
-- Clé primaire : Une ou plusieurs colonnes telles que aucune ligne n'a les m valeurs dans cette(ces) colonnes(s). Un moyen d'identifier de manière unique chaque ligne dans la table
+- Clé primaire : Une ou plusieurs colonnes telles que aucune ligne n'a les même valeurs dans cette(ces) colonnes(s). Un moyen d'identifier de manière unique chaque ligne dans la table
+
+- Clé étrangère : Champ qui fait référence à une clé primaire d'une autre table
 
 ## Forme normales :
 
@@ -16,27 +18,35 @@
 ## Tables
 
 * Crée : 
-CREATE TABLE nom(shéma);
+   ```sql
+   CREATE TABLE nom(shéma);
 
 * Lire : 
-DROP TABLE nom;
+   ```sql
+   DROP TABLE nom;
 
 * Ajouter : 
-INSERT INTO table VALUES(v1, v2, ...);
+   ```sql
+   INSERT INTO table VALUES(v1, v2, ...);
 
 * Suprimer : 
-DELETE FROM table WHERE c = v;
+   ```sql
+   DELETE FROM table WHERE c = v;
 
-* Mettre a jour : UPDATE table SET c = v WHERE x = z;
+* Mettre a jour :
+   ```sql
+   UPDATE table SET c = v WHERE x = z;
 Remplace par 'v' la valeur du champ 'c' de l'enregistrement de la table où la valeur de 'x' est 'z'.
 
 * Selectionner :
-SELECT c2, c4 
-FROM table 
-WHERE c1 = 5;
+   ```sql
+    SELECT c2, c4 
+    FROM table 
+    WHERE c1 = 5;
 
 * Jointure entre deux tables:
-SELECT club.nom, joueur.id_nom -- Nous ne somme pas obligé de mettre le nom de la table avant
-FROM joueur
-JOIN club
-ON joueur.id_club = club.id_club;
+   ```sql
+    SELECT club.nom, joueur.id_nom -- Nous ne somme pas obligé de mettre le nom de la table avant
+    FROM joueur
+    JOIN club
+    ON joueur.id_club = club.id_club;
