@@ -11,6 +11,10 @@
 
 - Cohérance : Impossible INSERT lignes dans table fille avec une valeur de clé étrangère n'existant pas dans la table mère.
 
+- SQL : Structured Query Language
+
+- SGBD : Système de Gestion de Base de Données
+
 ## Forme normales :
 
 * Formes que nous utilisons en cours :
