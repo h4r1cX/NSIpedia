@@ -6,6 +6,8 @@
 - Clé primaire : Une ou plusieurs colonnes telles que aucune ligne n'a les même valeurs dans cette(ces) colonnes(s). Un moyen d'identifier de manière unique chaque ligne dans la table
 
 - Clé étrangère : Champ qui fait référence à une clé primaire d'une autre table
+   ```sql
+   foreing key
 
 - Cohérance : Impossible INSERT lignes dans table fille avec une valeur de clé étrangère n'existant pas dans la table mère.
 
