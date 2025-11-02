@@ -17,7 +17,7 @@
 - 0NF : Non redendance (pas de répétition de lignes des tables)
 - 1NF : Atomicité : une seule valeur par cellule.
 - 2FN : Pas de dépendance partielle (Clé primaire composite, colonne dépendante que d'une partie de la clé)
-- 3FN : Pas de dépendance transitive
+- 3NF :  Toute les colones dépendents directement de la clé primaire
 
 ## Tables
 
