@@ -31,7 +31,8 @@
 
 * Lire : 
    ```sql
-   DROP TABLE nom;
+   SELECT * 
+   FROM nom;
 
 * Ajouter : 
    ```sql
