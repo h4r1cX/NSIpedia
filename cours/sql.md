@@ -16,8 +16,8 @@
 * Formes que nous utilisons en cours :
 - 0NF : Non redendance (pas de répétition de lignes des tables)
 - 1NF : Atomicité : une seule valeur par cellule.
-- 2FN : Pas de dépendance partielle (Clé primaire composite, colonne dépendante que d'une partie de la clé)
-- 3NF :  Toute les colones dépendents directement de la clé primaire
+- 2FN : Si la table a une clé primaire composée (plusieurs colonnes) alors aucune colonne non clé ne doit dépendre seulement d'une partie de cette clé (elle doit dépendre de toute la clé). Pas de dépendance partielle (Clé primaire composite, colonne dépendante que d'une partie de la clé) 
+- 3NF :  Toute les colones dépendents directement de la clé primaire. Une colonne ne doit pas dépendre d'une autre colonne non clé (pas de dépendance transitive)
 
 ## Tables
 
