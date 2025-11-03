@@ -43,10 +43,12 @@
    ```sql
    DELETE FROM table WHERE c = v;
 
-* Mettre a jour :
+* Mettre a jour (exemple des clubs de tennis) :
    ```sql
-   UPDATE table SET c = v WHERE x = z;
-Remplace par 'v' la valeur du champ 'c' de l'enregistrement de la table où la valeur de 'x' est 'z'.
+   UPDATE club
+   SET nom = 'paris'
+   WHERE id_club = 1;
+lle club qui a l'id1, son nom va être remplacé par paris.
 
 * Selectionner :
    ```sql
