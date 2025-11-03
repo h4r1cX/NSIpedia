@@ -37,7 +37,7 @@
 
 * Ajouter : 
    ```sql
-   INSERT INTO table VALUES(v1, v2, ...);
+   INSERT INTO "nom de la table" VALUES(v1, v2, ...);
 
 * Suprimer : 
    ```sql
