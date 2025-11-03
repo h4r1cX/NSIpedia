@@ -31,8 +31,9 @@
 
 * Lire : 
    ```sql
-   SELECT * 
-   FROM nom;
+   SELECT Joueur.nom, club.nom
+   FROM Joueur JOIN Club
+   ON Joueur.id_club = Club.id_club;
 
 * Ajouter : 
    ```sql
