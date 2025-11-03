@@ -48,7 +48,7 @@
    UPDATE club
    SET nom = 'paris'
    WHERE id_club = 1;
-lle club qui a l'id1, son nom va être remplacé par paris.
+le club qui a l'id1, son nom va être remplacé par paris.
 
 * Selectionner :
    ```sql
