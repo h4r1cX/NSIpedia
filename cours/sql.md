@@ -31,9 +31,9 @@
 
 * Lire : 
    ```sql
-   SELECT Joueur.nom, club.nom
-   FROM Joueur JOIN Club
-   ON Joueur.id_club = Club.id_club;
+   SELECT "les colones"
+   FROM "la table"
+   WHERE "un filtre" exemple toute les valeurs au dessus de 5;
 
 * Ajouter : 
    ```sql
