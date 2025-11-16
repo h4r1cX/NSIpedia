@@ -62,3 +62,7 @@ le club qui a l'id1, son nom va être remplacé par paris.
     FROM joueur
     JOIN club
     ON joueur.id_club = club.id_club;
+
+## Modèle SQL sur le terminal avec sqlite3
+
+Liens github : [Code](https://github.com/PetitJump/Magasin-chaussons-SQL-Terminal)
