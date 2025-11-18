@@ -19,3 +19,5 @@
 ## Aide
 
 ➡️ [Tuto GitHub](https://github.com/h4r1cX/NSIpedia/blob/main/tuto_github.md)
+
+➡️ [S'entrainer](https://github.com/PetitJump/Exercices-Algo-Bac)
