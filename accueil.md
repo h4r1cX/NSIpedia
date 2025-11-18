@@ -16,6 +16,9 @@
 ### 📁 Cours SQL :
 ➡️ [Cours SQL](https://github.com/h4r1cX/NSIpedia/blob/main/cours/sql.md)
 
+### 📁 Cours Arbres :
+➡️ [Cours Arbres](https://github.com/h4r1cX/NSIpedia/blob/main/cours/arbres.md)
+
 ## Aide
 
 ➡️ [Tuto GitHub](https://github.com/h4r1cX/NSIpedia/blob/main/tuto_github.md)
