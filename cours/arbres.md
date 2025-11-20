@@ -1,5 +1,3 @@
-[accueil.md] 
-
 ## Cours sur les arbres. 
 
 1. Qu'est-ce qu'un arbre? 
