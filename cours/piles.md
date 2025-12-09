@@ -7,7 +7,7 @@
 - 7 - ((3 + 9) - 7) --> -_7_-_+_3_9_7
 
 ## Class
-* class Pile :
+* class File :
   ```python
   class File:
     def __init__(self, t):
@@ -44,4 +44,18 @@
         return str(res)
 
 ---
-A completer
+
+## Implémenter les Files :
+```shell
+    >>> from collections import deque
+    >>> f = deque([])
+    >>> f.append(7)
+    >>> f
+    deque([7])
+    >>> f.append(3)
+    >>> f.popleft()
+    7
+    >>> x = f.popleft()
+    >>> x
+    3
+```
