@@ -20,3 +20,4 @@ Représentation en python :
         ] 
 ```
 M_g[i][j] = 1 si arète de Si ver Sj. Sinon = 0
+Si graphe non orienté, matrice adjacent : M_g[i][j] = M_g[j][i]
